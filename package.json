@@ -1,0 +1,19 @@
+{
+  "name": "scalableui-site",
+  "version": "1.0.0",
+  "description": "ScalableUI Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryoliver/scalableui-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryoliver/scalableui-site/issues"
+  },
+  "homepage": "https://github.com/henryoliver/scalableui-site#readme"
+}
